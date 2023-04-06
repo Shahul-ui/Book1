@@ -1,0 +1,6 @@
+ids,labels,parents
+Enzymatic-Shahul,Shahul,
+Shahul-Degree,Degree,Enzymatic-Shahul
+Shahul-Branch,Branch,Enzymatic-Shahul
+Degree-BE,BE,Shahul-Degree
+Branch-Btech,Btech,Shahul-Branch
